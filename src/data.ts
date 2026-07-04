@@ -15,28 +15,28 @@ export const data: GridProps = {
     items: [
         { 
             id: 'one',
-            img: '../public/martin.jpg',
+            img: '/martin.jpg',
             imgAlt: 'Martin from Cortis',
             label: "MARTIN",
             birth: 'March 20. 2008'
         },
         { 
             id: 'two',
-            img: '../public/james.jpg',
+            img: '/james.jpg',
             imgAlt: 'JAMES',
             label: "JAMES",
             birth: 'October 14. 2005'
         },
         { 
             id: 'three',
-            img: '../public/juhoon.jpg',
+            img: '/juhoon.jpg',
             imgAlt: 'JUHOON from Cortis',
             label: "JUHOON",
             birth: 'January 3. 2008'
         },
         { 
             id: 'four',
-            img: '../public/seonghyeon.jpg',
+            img: '/seonghyeon.jpg',
             imgAlt: 'SEONGHYEON from Cortis',
             label: "SEONGHYEON",
             birth: 'January 13.2009'
@@ -44,7 +44,7 @@ export const data: GridProps = {
      
         { 
             id: 'six',
-            img: '../public/keonho.jpg',
+            img: '/keonho.jpg',
             imgAlt: 'KEONHO from Cortis',
             label: "KEONHO",
             birth: 'February 14. 2009'
